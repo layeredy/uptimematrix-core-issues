@@ -1,6 +1,6 @@
 [![layeredy](https://cdn.layeredy.com/uptimematrix/wordmark.png)](https://uptimematrix.com)
 
-# UptimeMatrix Issues (Core)
+# [UptimeMatrix Issues (Core)](https://github.com/layeredy/uptimematrix-core-issues/issues)
 This is the issue repository for the core web-app built for UptimeMatrix ([visit the site here](https://app.uptimematrix.com)).
 
 > [!NOTE]
